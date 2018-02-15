@@ -1,0 +1,13 @@
+connection=wired
+dhcp=yes
+proxy=
+browser=chrome
+homepage=http://google.ca
+session_idle=1
+scheduled_action=Monday-15:00 Tuesday-15:00 Wednesday-15:00 Thursday-15:00 Friday-15:00 Saturday-15:00 Sunday-15:00 action:halt
+right_mouse_click=yes
+root_password=ABC
+timezone=America/Toronto
+vnc_interactive=yes
+vnc_password=ABC
+additional_components=09-x11vnc.xzm uefi.zip 08-ssh.xzm 
